@@ -72,8 +72,8 @@ class IRouter extends Component {
                     <Route path="/charts/line" component={Line} />
                     <Route path="/rich" component={RichText} />
                     <Route path="/permission" component={Permission} />
-                    <Route component={NoMatch} />
                     <Redirect to="/home" />
+                    <Route component={NoMatch} />
                   </Switch>
                 </Admin>
               )}
