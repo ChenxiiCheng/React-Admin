@@ -6,21 +6,15 @@
 
 #### Preview | 预览
 
-![image-20191025150635079](/Users/chenxi/Library/Application Support/typora-user-images/image-20191025150635079.png)
+![image-20191025150635079](./imgs/pic1.png)
 
 
-
-![image-20191025150641464](/Users/chenxi/Library/Application Support/typora-user-images/image-20191025150641464.png)
-
+![image-20191025150641464](./imgs/pic2.png)
 
 
-![image-20191025150647998](/Users/chenxi/Library/Application Support/typora-user-images/image-20191025150647998.png)
-
-
+![image-20191025150647998](./imgs/pic3.png)
 
 ------
-
-
 
 ### 技术栈
 
@@ -34,11 +28,7 @@
 - Axios：0.19.0
 - Less：^2.7.3
 
-
-
 ------
-
-
 
 ### 本地运行
 
